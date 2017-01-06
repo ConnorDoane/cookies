@@ -1,6 +1,8 @@
 body {
 	background-color: #00FF00;
-	text-align: center;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 }
 h1 {
 	color: #0000FF;
@@ -14,4 +16,12 @@ marquee {
 	position: absolute;
 	left: 20px;
 	bottom: 20px;
+}
+ul {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+li {
+	font-size: 30px;
 }
