@@ -1,0 +1,17 @@
+body {
+	background-color: #00FF00;
+	text-align: center;
+}
+h1 {
+	color: #0000FF;
+	font-family: cursive;
+}
+h3 {
+	color: #0000FF;
+	font-family: cursive;
+}
+marquee {
+	position: absolute;
+	left: 20px;
+	bottom: 20px;
+}
